@@ -11,7 +11,7 @@ O FériasPlus é um aplicativo pensado para brasileiros que desejam otimizar o p
 - Trabalhadores CLT no Brasil
 - Pessoas que têm direito a férias fracionadas
 - Famílias e casais que planeiam viagens com antecedência
-- Jovens adultos (25-45 anos), com interesse em viagens nacionais
+- Jovens adultos (25-45 anos), com interesse em viagens nacionais e internacionais
 - Pessoas com pouco tempo ou paciência para organizar viagens detalhadas
 
 ---
