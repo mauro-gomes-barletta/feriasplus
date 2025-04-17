@@ -1,9 +1,9 @@
-**Documentação Inicial – Projeto Férias+**
+**Documentação Inicial – Projeto FériasPus**
 
 ---
 
 ### 1. Resumo Executivo
-O Férias+ é um aplicativo pensado para brasileiros que desejam otimizar o planejamento das suas férias. Ele permite escolher os melhores períodos com base na legislação trabalhista (divisão de férias), combinar datas com feriados prolongados, sugerir destinos com base em clima e orçamento, e ainda criar roteiros personalizados com atividades para cada dia da viagem.
+O FériasPlus é um aplicativo pensado para brasileiros que desejam otimizar o planejamento das suas férias. Ele permite escolher os melhores períodos com base na legislação trabalhista (divisão de férias), combinar datas com feriados prolongados, sugerir destinos com base em clima e orçamento, e ainda criar roteiros personalizados com atividades para cada dia da viagem.
 
 ---
 
